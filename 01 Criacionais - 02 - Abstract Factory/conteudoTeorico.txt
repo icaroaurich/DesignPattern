@@ -1,0 +1,7 @@
+Finalidade
+	Permite que você produza famílias de objetos relacionados sem ter que espeficicar sua classe concreta
+Problema
+    Você tem um obj 1 que é formado por outros sub-objetos, ao criar o obj1, é necessário passar os sub-objetos
+Solução
+    O padrão Abstract Factory fornece uma fábrica para criação de objetos que são compostos de familias de objetos
+    

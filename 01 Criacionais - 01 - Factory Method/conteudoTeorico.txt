@@ -1,0 +1,13 @@
+Finalidade
+	Fornece uma interface para criar objetos em uma superclasse, mas permite que as subclasses alterem o tipo de objeto que serão criados
+
+Problema
+    Criaremos uma aplicação de logistica para transporte de mercadoria via caminhão.
+    Você precisa implementar transporte marítimo.
+Solução
+    O padrão Factory Method fornece uma fábrica para criação de obejtos, e retorna o meio de transporte desejado
+UML teórico
+    Será criado uma interface "Creator" com uma operação e o "createProduct"
+    Uma classe ConcreteCreator irá implementar da classe creator
+    A inform
+    

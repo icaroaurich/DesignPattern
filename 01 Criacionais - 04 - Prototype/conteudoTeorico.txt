@@ -1,0 +1,9 @@
+Finalidade
+	Permite que você copie objetos existentes sem fazer seu código ficar dependente de suas classes
+Problema
+    Você tem um objeto com muitos atributos, e precisa criar um igual.
+	Para criar um igual, você precisa dar um new no obj e passar todos os atribudos um a um
+Solução
+	O prototype de orienta criar um método clone() que retorna a si mesmo, passando seus próprios atributos no construtor ou métodos setters
+    
+    

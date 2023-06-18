@@ -1,0 +1,8 @@
+Finalidade
+	Permite construir objetos complexos passo a passo. O pedrão permite produzir diferentes tipos de representações de um objeto usando o mesmo código de construção
+Problema
+    Criar um objeto complexo (objeto feito de outros objetos) onde é necessário realizar etapas para criação do mesmo
+Solução
+    Implementar o padrão Builder para criar o objeto complexo para você
+    
+    

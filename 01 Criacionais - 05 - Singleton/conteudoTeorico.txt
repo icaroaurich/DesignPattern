@@ -1,0 +1,8 @@
+Finalidade
+	Ter sempre a mesma instância do obj
+Problema
+    Sua aplicação precisa de uma senha, senha essa que muda todos os dias
+Solução
+    Singleton vai garantir que todos sempre tenham o mesmo obj com os mesmos atributos
+    
+    
